@@ -15,4 +15,4 @@ Has de tener un repositorio llamado X-Nav-Bootstrap-Concurso en tu cuenta en Git
 
 #Visualizar la pagina
 
-Para visualizar la pagina picha <a href="http://djuanes87.github.io/X-NAV-Bootstrap-Concurso">AQUI</a>.
+Para visualizar la pagina picha <a href="http://djuanes87.github.io/X-Nav-Bootstrap-Concurso/">AQUI</a>.
