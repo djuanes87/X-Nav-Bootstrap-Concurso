@@ -1,0 +1,26 @@
+body{
+  background: "images/background.jpg";
+}
+
+img{
+  min-width: 100%;
+  max-height: 550px;
+}
+
+#head-info{
+  background-color: lightblue;
+  font-family: Old English Text MT;
+  text-align: center;
+}
+
+.person-org{
+  text-align: center;
+  font-size: 15px;
+}
+
+.headers{
+  font-size: 30px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
